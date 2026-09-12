@@ -228,13 +228,3 @@ This helps reduce unsupported answers and keeps the chatbot focused on the provi
 * Improved document parsing
 * OCR support for scanned PDFs
 * Authentication and user-specific document storage
-
-## 👨‍💻 Author
-
-**Koushik Asrith Mulavisala**
-
-B.Tech — Computer Science & Engineering
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
